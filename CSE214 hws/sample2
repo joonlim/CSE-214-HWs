@@ -1,0 +1,33 @@
+<Document><Section1>Everything in this section will be on one line<subsection1a>Including this</subsection1a><linebreak /><subsection1b>And this<subsubsection1ba>And even this</subsubsection1ba></subsection1b></Section1>
+
+    <Section2>
+
+    This section is more sensibly spaced out
+
+        <subsection2a>
+
+        It is also indented properly
+
+            <subsubsection2aa>
+
+            There are many levels in this section
+
+                <subsubsubsection2aaa>
+
+                This is the last level
+
+                </subsubsubsection2aaa>
+
+            </subsubsection2aa>
+
+        </subsection2a>
+
+        <subsection2b>
+
+        This document is valid XML
+
+        </subsection2b>
+
+    </Section2>
+
+</Document>

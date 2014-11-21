@@ -1,0 +1,29 @@
+<Inventory>
+
+<StoreName>Stop & Shop</Storename>
+
+<Produce>
+
+Locally sourced produce
+
+<vegetables><quantity>3</quantity><items>Broccoli, Lettuce, Corn</items></vegetables>
+
+<fruit><items>Apple, Orange</items><quantity>2</quantity></fruit>
+
+</Produce>
+
+<Meat>
+
+Fresh grade A
+
+<quantity>4</quantity>
+
+<items>
+
+Beef, Pork, Chicken, Fish
+
+</items>
+
+</meat>
+
+<bakery>

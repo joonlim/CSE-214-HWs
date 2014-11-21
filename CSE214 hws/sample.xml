@@ -1,0 +1,33 @@
+<Airport>
+
+<skip me />
+
+<Info>
+
+<Name>John F. Kennedy International</Name>
+
+<City>
+
+New York City
+
+</City>
+
+<State>NY</State>
+
+</Info>
+
+<Status>
+
+<AvgDelay>15 minutes</AvgDelay>
+
+</Status>
+
+<Weather>
+
+<Temp>78 degrees Fahrenheit</Temp>
+
+<Visibility>9.90</Visibility>
+
+</Weather>
+
+</Airport>

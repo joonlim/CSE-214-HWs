@@ -1,0 +1,14 @@
+Central Street,30,N
+Hill Street,100,S
+Hill Street,50,S
+Hill Street,70,N
+Hill Street,90,N
+Apple Street,40,N
+Apple Street,40,N
+Apple Street,49,N
+Apple Street,20,S
+Apple Street,30,S
+Zebra Street,20,N
+Zebra Street,30,N
+Zebra Street,40,N
+Zebra Street,50,S
