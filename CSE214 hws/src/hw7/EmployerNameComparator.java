@@ -10,7 +10,7 @@ public class EmployerNameComparator implements Comparator<Employer> {
 	}
 
 	public static void main(String[] args) {
-
+		//test
 		EmployerNameComparator c = new EmployerNameComparator();
 
 		Employer a = new Employer("Amanda");
